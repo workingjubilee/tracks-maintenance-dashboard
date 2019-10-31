@@ -387,7 +387,7 @@ function VersionsDontMatch(): JSX.Element {
       The version in the <code>exercism/problem-specifications</code> repository
       is higher than the local version. In order to resolve this, update the
       exercise by re-generating the <code>README.md</code> and updating the
-      exericse tests.
+      exercise tests.
     </p>
   )
 }
